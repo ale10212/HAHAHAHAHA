@@ -1,0 +1,24 @@
+.topbar {
+    height: 5%;
+    width: 100%;
+    background-color: #ffa500;
+    text-align: center;
+    color: #fff;    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+.topbar ul{
+    padding-left: 45%;
+    padding-right: 43.3%;
+}
+.fix{
+    width: 100%;
+
+}
+.topbar p {
+    text-align: center;
+    font-size: 14px;    
+  }
+  
+.topbar a{
+  font-size: large;
+}
